@@ -17,7 +17,7 @@ function Home() {
                 <Link to="/truffle-slots"><button className='bg-green py-2 px-4 rounded-[100px] duration-200 text-white text-[18px] hover:bg-green/80'>TruffleSlots</button></Link>
             </div>
 
-            <Link to="/contact"><button className='bg-green py-2 px-4 rounded-[100px] text-white text-[18px] duration-200 hover:bg-green/80'>Contact Us</button></Link>
+            <Link to="mailto:support@trufflelive.com"><button className='bg-green py-2 px-4 rounded-[100px] text-white text-[18px] duration-200 hover:bg-green/80'>Contact Us</button></Link>
 
             <p className='max-w-[90%] m-auto mt-12 text-gray opacity-50'>“Truffle Live Limited” 11/F., Unit B, Winbase Centre, 208 Queen’s Road Central, Sheung Wan, Hong Kong, Phone: <Link to={'tel:+ 852 2157 3121'}>+ 852 2157 3121</Link></p>
             <p className='mt-4 text-gray opacity-50'>© 2023 Truffle Live Limited. All Rights Reserved</p>
