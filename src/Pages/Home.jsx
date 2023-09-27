@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 function Home() {
     return (
         <div className='text-center'>
-            <img className='w-[80%] md:w-[368px] m-auto mt-4 md:mt-10' src={headerImage} alt="Header" />
+            <img className='w-[80%] md:w-[368px] m-auto mt-0 2xl:mt-10 min-h-[244px]' src={headerImage} alt="Header" />
             <h1 className='text-[28px] max-w-[90%] md:text-[34px] lg:text-[48px] xl:text-[64px] mt-4 text-brown font-bold m-auto'>TruffleLive - Crafting Digital Magic</h1>
             <h2 className='text-[18px] max-w-[90%] md:text-[20px] lg:text-[26px] xl:text-[32px] text-brown font-extrabold m-auto opacity-70'>Where Imagination Meets Innovation in App Development</h2>
 
