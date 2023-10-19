@@ -13,7 +13,7 @@ function Home() {
             <p className='max-w-[90%] lg:max-w-[840px] text-black font-regular text-left m-auto my-8 md:text-[18px] lg:text-[22px]'>At TruffleLive, we are the driving force behind the creation and distribution of a diverse range of apps that transcend boundaries. While we excel in the realm of casual and fun games, our expertise extends far beyond, covering a myriad of exciting digital experiences. Our passion for innovation and commitment to quality make us the ideal partner for turning your app ideas into reality.</p>
 
             <div className='flex justify-center gap-4 mb-4'>
-                <Link target='_blank' to="https://cherrytrivia.com/"><button className='bg-green py-2 px-4 rounded-[100px] duration-200 text-white text-[18px] hover:bg-green/80'>Questions App</button></Link>
+                <Link target='_blank' to="https://cherrytrivia.com/"><button className='bg-green py-2 px-4 rounded-[100px] duration-200 text-white text-[18px] hover:bg-green/80'>Cherry Trivia</button></Link>
                 <Link target='_blank' to="http://truffleslots.com/"><button className='bg-green py-2 px-4 rounded-[100px] duration-200 text-white text-[18px] hover:bg-green/80'>TruffleSlots</button></Link>
             </div>
 
